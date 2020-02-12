@@ -11,13 +11,17 @@ namespace Pi_dartboard
             Console.WriteLine("============\n");
 
             Random my_random = new Random(); // See: https://stackoverflow.com/questions/3975290/produce-a-random-number-in-a-range-using-c-sharp
-            long number_of_MC_iterations = 100000000;
+            //long number_of_MC_iterations = 10000000;
             long hit_dartboard = 0;
             long missed_dartboard = 0;
             double rDouble, this_x, this_y, this_z_squared;
 
+            // Get number of iterations from the user
+            Console.WriteLine("Enter required number of Monte-Carlo iterations:");
+            long number_of_MC_iterations = Convert.ToInt64( Console.ReadLine() );
+
             // Information to console
-            Console.WriteLine($"Number of Monte-Carlo iterations: {number_of_MC_iterations}");
+            Console.WriteLine($"\nNumber of Monte-Carlo iterations: {number_of_MC_iterations}");
 
             // Monte-Carlo main loop
             for (int i=0; i< number_of_MC_iterations; i++)
@@ -42,7 +46,6 @@ namespace Pi_dartboard
             }
 
             // TODO:
-            // - Make MC iterations a user-input
             // - Assert that 0.0 <= each x and y < 1.0
             // - Assert that hits+misses = MC_iterations
 
@@ -54,6 +57,10 @@ namespace Pi_dartboard
 
             // Write results to console
             Console.WriteLine($"Hit ratio: {hit_ratio}, Pi_estimate: {Pi_estimate}");
+
+            // Prompt user to complete
+            Console.WriteLine("\nPress any key to continue...");
+            Console.ReadKey();
         }
     }
 }
