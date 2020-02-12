@@ -1,0 +1,11 @@
+C:\Users\ddnbe\Desktop\Programming_projects\Csharp\Pi_dartboard\Pi_dartboard\Pi_dartboard\bin\Debug\netcoreapp3.1\Pi_dartboard.exe
+C:\Users\ddnbe\Desktop\Programming_projects\Csharp\Pi_dartboard\Pi_dartboard\Pi_dartboard\bin\Debug\netcoreapp3.1\Pi_dartboard.deps.json
+C:\Users\ddnbe\Desktop\Programming_projects\Csharp\Pi_dartboard\Pi_dartboard\Pi_dartboard\bin\Debug\netcoreapp3.1\Pi_dartboard.runtimeconfig.json
+C:\Users\ddnbe\Desktop\Programming_projects\Csharp\Pi_dartboard\Pi_dartboard\Pi_dartboard\bin\Debug\netcoreapp3.1\Pi_dartboard.runtimeconfig.dev.json
+C:\Users\ddnbe\Desktop\Programming_projects\Csharp\Pi_dartboard\Pi_dartboard\Pi_dartboard\bin\Debug\netcoreapp3.1\Pi_dartboard.dll
+C:\Users\ddnbe\Desktop\Programming_projects\Csharp\Pi_dartboard\Pi_dartboard\Pi_dartboard\bin\Debug\netcoreapp3.1\Pi_dartboard.pdb
+C:\Users\ddnbe\Desktop\Programming_projects\Csharp\Pi_dartboard\Pi_dartboard\Pi_dartboard\obj\Debug\netcoreapp3.1\Pi_dartboard.csprojAssemblyReference.cache
+C:\Users\ddnbe\Desktop\Programming_projects\Csharp\Pi_dartboard\Pi_dartboard\Pi_dartboard\obj\Debug\netcoreapp3.1\Pi_dartboard.AssemblyInfoInputs.cache
+C:\Users\ddnbe\Desktop\Programming_projects\Csharp\Pi_dartboard\Pi_dartboard\Pi_dartboard\obj\Debug\netcoreapp3.1\Pi_dartboard.AssemblyInfo.cs
+C:\Users\ddnbe\Desktop\Programming_projects\Csharp\Pi_dartboard\Pi_dartboard\Pi_dartboard\obj\Debug\netcoreapp3.1\Pi_dartboard.dll
+C:\Users\ddnbe\Desktop\Programming_projects\Csharp\Pi_dartboard\Pi_dartboard\Pi_dartboard\obj\Debug\netcoreapp3.1\Pi_dartboard.pdb
